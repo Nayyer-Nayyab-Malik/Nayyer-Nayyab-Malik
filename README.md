@@ -1,6 +1,6 @@
 # Hi there👋 I am Nayyer Nayyab Malik
 <div id="header" align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*NjTOZloZTcd4NUPIevicNQ.gif" width="300"/>
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*NjTOZloZTcd4NUPIevicNQ.gif" width="500"/>
 </div>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/nayyer-nayyab-malik-3b307531b">
